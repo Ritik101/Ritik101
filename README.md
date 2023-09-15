@@ -1,4 +1,4 @@
-### Hi there 👋
+# ![]([https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif]))
 
 <!--
 **Ritik101/Ritik101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World! # ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif))
+# Hello World! 👋
 I am Ritik Singh a recent computer science graduate from Delhi Technological University, New delhi, India. I am a tech enthusiast & always exploring new tech. Always open to collaborating on projects and mindboggling/absurd ideas. Would love to connect with you and learn from you
 ## Technologies
 <p align="center">
