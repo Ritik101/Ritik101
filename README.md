@@ -20,7 +20,7 @@ I am Ritik Singh a recent computer science graduate from Delhi Technological Uni
 ## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs" />
+    ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs)
   </a>
 </p>
 <!--     ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs) -->
