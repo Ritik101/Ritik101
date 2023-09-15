@@ -1,4 +1,3 @@
-# ![](([https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif]))
 
 <!--
 **Ritik101/Ritik101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,5 @@ I am Ritik Singh a recent computer science graduate from Delhi Technological Uni
 <p align="center">
       <image src="https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs" />
 </p>
-<!--  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />    -->
+
+## <image src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" />
