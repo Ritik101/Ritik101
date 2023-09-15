@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World! 👋  <image src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" align="center" height=50 width=100/>
+# Hello World! 👋  <image src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" align="center" height=150 width=100/>
 I am Ritik Singh a recent computer science graduate from Delhi Technological University, New delhi, India. I am a tech enthusiast & always exploring new tech. Always open to collaborating on projects and mindboggling/absurd ideas. Would love to connect with you and learn from you
 ## Technologies
 <p align="center">
