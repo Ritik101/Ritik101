@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 I am Ritik Singh a recent computer science graduate from Delhi Technological University, New delhi, India. I am a tech enthusiast & always exploring new tech. Always open to collaborating on projects and mindboggling/absurd ideas. Would love to connect with you and learn from you
 ## Technologies
 <p align="center">
-  <a href="https://skillicons.dev">
-    ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs)
-  </a>
+      <image src="https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs" />
 </p>
-<!--     ![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,bootstrap,react,nodejs) -->
+<!--  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />    -->
