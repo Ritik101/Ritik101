@@ -1,4 +1,4 @@
-# ![]([https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif]))
+# ![](([https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif]))
 
 <!--
 **Ritik101/Ritik101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
