@@ -19,7 +19,7 @@ I am Ritik Singh, a tech enthusiast & always exploring new tech. Always open to 
 Would love to connect with you and learn from you
 ## Technologies
 <p align="center">
-      <image src="https://skillicons.dev/icons?i=python,sql,Hadoop,HDFS,Google Cloud, Map Reduce, Yarn, Apache Spark, Hive, Kafka, Dockers, Airflow, Dataflow, Azure" />
+      <image src="https://skillicons.dev/icons?i=python,sql,gcp,yarn,kafka,dockers,airflow,azure" />
 </p>
 
 ## 
