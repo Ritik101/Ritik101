@@ -19,7 +19,7 @@ I am Ritik Singh, a tech enthusiast & always exploring new tech. Always open to 
 Would love to connect with you and learn from you
 ## Technologies
 <p align="center">
-      <image src="https://skillicons.dev/icons?i=vscode,python,mysql,gcp,yarn,kafka,docker,azure,github,airflow&perline=4" />
+      <image src="https://skillicons.dev/icons?i=vscode,python,mysql,gcp,yarn,kafka,docker,azure,github,airflow&perline=5" />
 </p>
 
 ## 
